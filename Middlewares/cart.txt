@@ -1,0 +1,27 @@
+
+_id :ObjectId(66dd58ac414c7b80f4408b21)
+
+
+title
+iphone-24
+
+String
+description
+the best phone2
+
+String
+price
+90000
+
+{
+  _id: ObjectId('6a079da0b6a54b1869186147'),
+  name: 'Mritunjay Kumar Singh',
+  email: 'abhishekm3838@gmail.com',
+  password: '$2a$10$v4VXir4V8jXGKhX080hgMub2bvwnwwQxNIcQlaLp1/SNuhehti2nC',
+  createdAt: ISODate('2026-05-15T22:26:40.816Z'),
+  __v: NumberInt('0')
+}
+6a079da0b6a54b1869186147
+
+
+
